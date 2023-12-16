@@ -1,6 +1,6 @@
-# amazon_clone
+# E-Commerce App
 
-A new Flutter project.
+A Flutter project with admin , seller and buyer panel.
 
 ## Getting Started
 
